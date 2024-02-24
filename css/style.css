@@ -1,0 +1,83 @@
+h1 {
+    color: white;
+    background-color: #1C2833;
+    display: inline-block;
+    width: 600px;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+body {
+    background-color: #17202A;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+/* div {
+    background-color: #2E4053;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    max-width: 900px;
+} */
+
+img {
+    border-radius: 50px;
+    width: 350px;
+    margin: 0 auto;
+    display: block;
+}
+
+h2 {
+    background-color: #212F3C;
+    color: #979A9A;
+    display: inline-block;
+    width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h3 {
+    color: #B3B6B7;
+    background-color: #283747;
+    display: inline-block;
+    max-width: 900px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+h3:hover {
+    color: white;
+}
+
+img:hover , #text:hover, h1:hover{
+    color: #FDFEFE ;
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 15px 15px 20px black;
+}
+
+#additionalTextContainer {
+    margin-top: 0px;
+}
+
+#educationContainer {
+    margin-top: 0px;
+}
+
+#skillsContainer {
+    margin-top: 0px;
+}
+
+#interestContainer {
+    margin-top: 0px;
+}
+
+#missionContainer {
+    margin-top: 0px;
+}
+
+#achievementContainer {
+    margin-top: 0px;
+}
